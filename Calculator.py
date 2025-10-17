@@ -1,7 +1,6 @@
 import math
 option=["welcome to simple calculator","Enter your choice from below","1. add","2. subtract","3. multiply","4. divide","5. remainder/modulas","6. Square Root","7. exponentiation","8.view history","9.clear history","10. EXIT"]
 
-
 history=[]
 def choices():
     for i in range(len(option)):
